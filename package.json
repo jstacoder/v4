@@ -113,7 +113,7 @@
     "react-dom": "^16.8.6",
     "react-test-renderer": "^16.8.6",
     "rimraf": "^2.6.3",
-    "rollup": "^1.11.3",
+    "rollup": "^1.14.1",
     "semantic-release": "^15.13.12",
     "styled-components": "^4.2.0",
     "stylelint": "^10.0.1",
