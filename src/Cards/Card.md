@@ -12,7 +12,7 @@ import {
 } from '$PACKAGE_NAME';
 
 <Card width="25%">
-  <CardImg top src="https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180" alt="Card image cap" />
+  <CardImg top src="https://Place-Hold.it/318x180?fontsize=33&text=318%C3%97180" alt="Card image cap" />
   <CardBlock>
     <CardTitle>Card title</CardTitle>
     <CardSubtitle>Card subtitle</CardSubtitle>
@@ -324,7 +324,7 @@ import {
 
 <CardGroup>
   <Card>
-    <CardImg top width="100%" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=256%C3%97180&w=256&h=180" alt="Card image cap" />
+    <CardImg top width="100%" src="https://Place-Hold.it/256x180?fontsize=33&text=256%C3%97180" alt="Card image cap" />
     <CardBlock>
       <CardTitle>Card title</CardTitle>
       <CardSubtitle>Card subtitle</CardSubtitle>
@@ -333,7 +333,7 @@ import {
     </CardBlock>
   </Card>
   <Card>
-    <CardImg top width="100%" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=256%C3%97180&w=256&h=180" alt="Card image cap" />
+    <CardImg top width="100%" src="https://Place-Hold.it/256x180?fontsize=33&text=256%C3%97180" alt="Card image cap" />
     <CardBlock>
       <CardTitle>Card title</CardTitle>
       <CardSubtitle>Card subtitle</CardSubtitle>
@@ -342,7 +342,7 @@ import {
     </CardBlock>
   </Card>
   <Card>
-    <CardImg top width="100%" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=256%C3%97180&w=256&h=180" alt="Card image cap" />
+    <CardImg top width="100%" src="https://Place-Hold.it/256x180?fontsize=33&text=256%C3%97180" alt="Card image cap" />
     <CardBlock>
       <CardTitle>Card title</CardTitle>
       <CardSubtitle>Card subtitle</CardSubtitle>
